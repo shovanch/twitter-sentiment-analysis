@@ -1,6 +1,6 @@
 # [Twitter Sentiment Analysis](https://twitsentiments.herokuapp.com/)
 ![preview]
-[preview]: https://raw.github.com/shovanch/twitter-sentiment-analysis/preview.png "Preview"
+[preview]: https://github.com/shovanch/twitter-sentiment-analysis/blob/master/preview.png "Preview"
 
 #### Project made as part of Harvard CS50X course
 
